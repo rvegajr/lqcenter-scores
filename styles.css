@@ -1,0 +1,63 @@
+
+body {background-color: #ffffff; scrollbar-face-color:#e2e2e2; scrollbar-highlight-color:#e2e2e2; scrollbar-3dlight-color:#e1e1e1; scrollbar-darkshadow-color:#f4f4f4; scrollbar-shadow-color:#465162; scrollbar-arrow-color:#666666; scrollbar-track-color:#f1f1f1;}
+body,td {font-family: Arial; font-size: 11px; color: #000000;}
+
+a {border: 0px;}
+a:link {color: #004276; text-decoration: none;}
+a:visited {color: #004276; text-decoration: none;}
+a:hover {color: #ca0002; text-decoration: none;}
+a:active {color: #000000; text-decoration: none;}
+
+hr {height: 1px; border: solid #e1e1e1; }
+
+.bg_grey_diag {background-image:url('./images/bg_grey_diag.gif'); background-repeat:repeat;}
+
+.bold_red {font-weight: bold; color: #ca0002;}
+.page_title {color: #004276; font-size: 20px;}
+
+table {border: 0px; empty-cells: show;}
+image {border: 0px; }
+
+.small {font-size: 10px;}
+.small_grey {font-size: 10px; color: #e1e1e1;}
+.large {font-size: 16px;}
+.fontSize32 {font-size: 48px;}
+.fontSize24 {font-size: 32px;}
+
+.print {font-size: 12px;}
+
+input, textarea, select {font-family: arial; font-size: 8pt; border: 1px solid #a1a1a1; text-align: center; padding-left: 2; background-color: ffffff;}
+.clear {font-family: arial; font-size: 8pt; border: 0px; text-align: center; padding-left: 2; background-color: transparent;}
+form {margin: 0px;}
+
+.nobor {border: 0px;}
+
+.player_title {font-size: 30px; font-weight: bold; color:#000;}
+
+.table_border_red {border: 1px solid #bc3232;}
+
+.table_bl_top {padding: 2; border: 1px solid #84a8cb; border-bottom: 0px; background-color: #cddded;}
+.table_yl_bot {padding: 2; border: 1px solid #ffcc00; border-top: 0px; background-color: #ffffcc;}
+
+#tooltip{
+	position:absolute;
+	border:1px solid #aaaaaa;
+	background:#e1e1e1;
+	padding:2px 5px;
+	color:#000000;
+	display:none;
+	}
+
+.bold_red a {border: 0px;}
+.bold_red a:link {color: #ca0002; text-decoration: none; font-weight: bold;}
+.bold_red a:visited {color: #000000; text-decoration: none;}
+.bold_red a:hover {color: #a1a1a1; text-decoration: none; font-weight: bold;}
+.bold_red a:active {color: #000000; text-decoration: none;}
+
+.default a {border: 0px;}
+.default a:link {color: #000000; text-decoration: none;}
+.default a:visited {color: #000000; text-decoration: none;}
+.default a:hover {color: #000000; text-decoration: none;}
+.default a:active {color: #000000; text-decoration: none;}
+
+#design {margin: 0 auto; text-align: center; padding: 10px;}
