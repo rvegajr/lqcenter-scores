@@ -1,4 +1,4 @@
-# lqcenter-scores
+# LQCenter Scores
 Web-based score tracking system for Laser Sport
 
 ## History
